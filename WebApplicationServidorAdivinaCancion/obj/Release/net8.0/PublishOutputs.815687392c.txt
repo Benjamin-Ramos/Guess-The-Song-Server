@@ -1,0 +1,11 @@
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\WebApplicationServidorAdivinaCancion.exe
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\WebApplicationServidorAdivinaCancion.dll
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\WebApplicationServidorAdivinaCancion.deps.json
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\WebApplicationServidorAdivinaCancion.runtimeconfig.json
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\WebApplicationServidorAdivinaCancion.pdb
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Benjamin\source\repos\WebApplicationServidorAdivinaCancion\WebApplicationServidorAdivinaCancion\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
