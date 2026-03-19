@@ -56,7 +56,7 @@ El servidor no solo transmite mensajes, sino que gestiona el flujo del juego:
 ---
 
 ## 💻 Tecnologías Utilizadas
-* **ASP.NET Core 6.0**
+* **ASP.NET Core 8.0**
 * **SignalR** (WebSockets / Long Polling)
 * **HttpClient** (Scraping de imágenes de artista)
 * **Regular Expressions (Regex)** (Limpieza de metadatos)
